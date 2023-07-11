@@ -25,4 +25,4 @@ def formatar_liga_tabela(objeto):
     return tabela_formatada
 
 resultado = formatar_liga_tabela(TABELA)
-print(resultado
+print(resultado)

@@ -10,3 +10,5 @@ Esta função em Python permite formatar uma tabela de liga de futebol usando o 
 Certifique-se de ter o Python 3 instalado. Use o seguinte comando para instalar o módulo `tabulate`:
 
 ## Exemplo saida
+![Logo](exemplo-saida.png)
+
